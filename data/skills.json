@@ -1,0 +1,29 @@
+{
+  "Automation": [
+    "Selenium",
+    "Playwright",
+    "API Testing",
+    "REST Assured",
+    "JMeter"
+  ],
+  "Programming": [
+    "Java",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "Tools": [
+    "Git",
+    "GitHub",
+    "CI/CD",
+    "Jenkins",
+    "SQL",
+    "Docker"
+  ],
+  "Leadership": [
+    "QA Strategy",
+    "Test Management",
+    "Release Management",
+    "Agile Delivery",
+    "Stakeholder Management"
+  ]
+}

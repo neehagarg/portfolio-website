@@ -1,0 +1,23 @@
+[
+  {
+    "name": "LearnJS",
+    "description": "JavaScript learning project with HTML, CSS, JavaScript and JSON.",
+    "technology": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "JSON"
+    ],
+    "github": "https://github.com/neehagarg/LearnJS"
+  },
+  {
+    "name": "Playwright Automation Framework",
+    "description": "End-to-end automation framework using Playwright and TypeScript.",
+    "technology": [
+      "Playwright",
+      "TypeScript",
+      "GitHub Actions"
+    ],
+    "github": ""
+  }
+]

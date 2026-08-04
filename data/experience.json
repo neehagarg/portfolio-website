@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Technoforte Software Pvt. Ltd.",
+    "role": "QA Associate Manager",
+    "domain": "Government Identity Management (MOSIP)",
+    "duration": "Dec 2020 - Jun 2026",
+    "location": "Bengaluru, India",
+    "highlights": [
+      "Led end-to-end Quality Engineering for National Identity and Civil Registry platform.",
+      "Owned QA strategy, test planning, SIT, UAT, release management and production readiness.",
+      "Led cross-functional teams across QA, Development, DevOps and Business teams.",
+      "Built automation frameworks using Selenium, Playwright, Java, REST Assured and CI/CD."
+    ]
+  },
+  {
+    "company": "Datamatics Global Services",
+    "role": "Lead Consultant",
+    "domain": "Travel - Sabre Corporation",
+    "duration": "Jul 2019 - Dec 2020",
+    "highlights": [
+      "Led quality engineering activities for enterprise travel applications.",
+      "Worked with global stakeholders and delivery teams."
+    ]
+  },
+  {
+    "company": "Great American Insurance Group",
+    "role": "Senior Quality Assurance Lead",
+    "domain": "Insurance",
+    "duration": "Dec 2017 - Jan 2019",
+    "highlights": [
+      "Managed QA activities and automation initiatives.",
+      "Supported enterprise application testing."
+    ]
+  },
+  {
+  "company": "Infosys Ltd.",
+  "role": "Senior System Engineer",
+  "domain": "LexisNexis, Wells Fargo, Allstate",
+  "duration": "Mar 2012 - Dec 2017",
+  "highlights": [
+    "Worked on enterprise application testing and quality engineering initiatives.",
+    "Collaborated with global teams across banking, insurance and enterprise domains.",
+    "Performed functional testing, integration testing and defect management.",
+    "Supported delivery of high-quality software solutions in Agile environments."
+  ]
+}
+]
