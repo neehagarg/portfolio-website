@@ -6,10 +6,10 @@
     "duration": "Dec 2020 - Jun 2026",
     "location": "Bengaluru, India",
     "highlights": [
-      "Led end-to-end Quality Engineering for National Identity and Civil Registry platform.",
-      "Owned QA strategy, test planning, SIT, UAT, release management and production readiness.",
-      "Led cross-functional teams across QA, Development, DevOps and Business teams.",
-      "Built automation frameworks using Selenium, Playwright, Java, REST Assured and CI/CD."
+      "Led end-to-end Quality Engineering for the Uganda National Identity & Civil Registry Platform (MOSIP), delivering mission-critical digital identity solutions.",
+      "Owned QA strategy, release governance, SIT, UAT, production readiness, and Go-Live support, ensuring high-quality enterprise releases.",
+      "Led and mentored cross-functional teams across QA, Development, DevOps, Business Analysis, and Product Management, driving delivery excellence.",
+      "Architected and implemented automation frameworks from scratch using Selenium, Playwright, REST Assured, Java, Jenkins, Docker, and CI/CD, accelerating regression testing and release quality."
     ]
   },
   {
@@ -19,7 +19,7 @@
     "duration": "Jul 2019 - Dec 2020",
     "highlights": [
       "Led quality engineering activities for enterprise travel applications.",
-      "Worked with global stakeholders and delivery teams."
+      "Collaborated with global stakeholders and cross-functional delivery teams."
     ]
   },
   {
@@ -28,20 +28,20 @@
     "domain": "Insurance",
     "duration": "Dec 2017 - Jan 2019",
     "highlights": [
-      "Managed QA activities and automation initiatives.",
-      "Supported enterprise application testing."
+      "Led QA activities for enterprise Property & Casualty (P&C) insurance applications.",
+      "Supported automation, functional, integration, and regression testing for policy administration, claims, and billing systems."
     ]
   },
   {
-  "company": "Infosys Ltd.",
-  "role": "Senior System Engineer",
-  "domain": "LexisNexis, Wells Fargo, Allstate",
-  "duration": "Mar 2012 - Dec 2017",
-  "highlights": [
-    "Worked on enterprise application testing and quality engineering initiatives.",
-    "Collaborated with global teams across banking, insurance and enterprise domains.",
-    "Performed functional testing, integration testing and defect management.",
-    "Supported delivery of high-quality software solutions in Agile environments."
-  ]
-}
+    "company": "Infosys Ltd.",
+    "role": "Senior System Engineer",
+    "domain": "LexisNexis, Wells Fargo, Allstate",
+    "duration": "Mar 2012 - Dec 2017",
+    "highlights": [
+      "Delivered quality engineering solutions for enterprise banking, insurance, and legal information platforms.",
+      "Performed functional, integration, API, and regression testing in Agile environments.",
+      "Collaborated with global teams and business stakeholders to ensure successful software delivery.",
+      "Contributed to high-quality releases through effective defect management and test execution."
+    ]
+  }
 ]

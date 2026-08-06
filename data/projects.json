@@ -1,23 +1,84 @@
 [
   {
-    "name": "LearnJS",
-    "description": "JavaScript learning project with HTML, CSS, JavaScript and JSON.",
+    "name": "Portfolio Website",
+    "description": "Responsive personal portfolio showcasing my Quality Engineering experience, technical skills, automation projects, achievements, certifications, and resume with a modern, mobile-friendly design.",
     "technology": [
-      "HTML",
-      "CSS",
+      "HTML5",
+      "CSS3",
       "JavaScript",
-      "JSON"
+      "GitHub Pages",
+      "Responsive Design"
     ],
-    "github": "https://github.com/neehagarg/LearnJS"
+    "github": "https://github.com/neehagarg/portfolio-website",
+    "demo": "https://neehagarg.github.io/portfolio-website/"
   },
   {
     "name": "Playwright Automation Framework",
-    "description": "End-to-end automation framework using Playwright and TypeScript.",
+    "description": "Modern end-to-end test automation framework built with Playwright and TypeScript, supporting cross-browser testing, reusable page objects, and CI/CD integration.",
     "technology": [
       "Playwright",
       "TypeScript",
       "GitHub Actions"
     ],
-    "github": ""
+    "github": "https://github.com/neehagarg/Playwright-Automation-Framework"
+  },
+  {
+    "name": "MOSIP Partner Management Portal (PMP) Automation",
+    "description": "Selenium-based UI automation framework for the MOSIP Partner Management Portal featuring reusable page objects, API integration, and automated regression testing.",
+    "technology": [
+      "Selenium WebDriver",
+      "Java",
+      "Page Object Model",
+      "REST API",
+      "GitHub Actions"
+    ],
+    "github": "https://github.com/neehagarg/partner-management-portal/tree/master/uitest-pmp"
+  },
+  {
+    "name": "MOSIP Admin Portal Automation",
+    "description": "End-to-end Selenium automation framework for the MOSIP Admin Portal covering critical administrative workflows with reusable components and API integration.",
+    "technology": [
+      "Selenium WebDriver",
+      "Java",
+      "Page Object Model",
+      "REST API",
+      "GitHub Actions"
+    ],
+    "github": "https://github.com/neehagarg/admin-ui/tree/master/uitest-admin"
+  },
+  {
+    "name": "MOSIP Registration Client Automation",
+    "description": "Desktop application automation framework for the MOSIP Registration Client using TestFX to automate functional and regression testing.",
+    "technology": [
+      "JavaFX",
+      "TestFX",
+      "Functional Testing",
+      "Regression Testing",
+      "Test Reporting"
+    ],
+    "github": "https://github.com/neehagarg/registration-client/tree/master/registration/registration-test"
+  },
+  {
+    "name": "Packet Creator API Automation",
+    "description": "REST Assured framework for automating Packet Manager APIs with request, response, and JSON schema validation.",
+    "technology": [
+      "REST Assured",
+      "Java",
+      "Spring Boot",
+      "JSON Schema Validation"
+    ],
+    "github": "https://github.com/neehagarg/mosip-automation-tests/tree/master/mosip-packet-creator"
+  },
+  {
+    "name": "DSL API Automation",
+    "description": "Reusable REST Assured automation framework for validating DSL APIs with TestNG, Maven, and CI/CD integration.",
+    "technology": [
+      "REST Assured",
+      "Java",
+      "TestNG",
+      "Maven",
+      "CI/CD"
+    ],
+    "github": "https://github.com/neehagarg/mosip-automation-tests/tree/master/mosip-acceptance-tests"
   }
 ]

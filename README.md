@@ -1,56 +1,259 @@
-# Neeharika (Neeha) Garg  
-### QA Associate Manager | Quality Engineering Leader
+# 👋 Hi, I'm Neeharika (Neeha) Garg
 
-Quality Engineering Leader with 16+ years of experience in QA strategy, automation, test management, release governance, and Agile delivery.
+## QA Associate Manager | Quality Engineering Leader | Test Automation Architect
+
+Quality Engineering Leader with **16+ years of experience** in Quality Assurance, Test Automation, Test Management, Release Governance, and Agile Delivery. I specialize in building scalable automation frameworks, API testing solutions, and CI/CD-enabled quality engineering practices.
 
 ---
+
+## 🌐 Portfolio
+
+🚀 **Live Portfolio:**
+**https://neehagarg.github.io/portfolio-website/**
+
+---
+
+## 💼 Professional Summary
+
+* ✅ 16+ years of experience in Software Quality Assurance & Quality Engineering
+* ✅ Expertise in UI, API, Functional, Integration & Regression Testing
+* ✅ Built scalable Selenium, Playwright, REST Assured & TestFX automation frameworks
+* ✅ Experienced in QA Strategy, Release Governance, Agile Delivery & Team Leadership
+* ✅ Passionate about automation, continuous improvement, and mentoring QA engineers
+
+---
+
+# 🛠️ Tech Stack
+
+### Automation
+
+* Selenium WebDriver
+* Playwright
+* REST Assured
+* TestFX
+
+### Programming
+
+* Java
+* JavaScript
+* TypeScript
+
+### Frameworks & Tools
+
+* TestNG
+* Maven
+* Spring Boot
+* Page Object Model (POM)
+* Jenkins
+* GitHub Actions
+* Docker
+* Git
+* GitHub
+
+### Testing
+
+* UI Testing
+* API Testing
+* Functional Testing
+* Regression Testing
+* Integration Testing
+* Smoke Testing
+* Cross-browser Testing
+
+---
+
+# 📂 Featured Projects
 
 ## 🌐 Portfolio Website
 
-🚀 Live Demo:  
+**Repository:**
+https://github.com/neehagarg/portfolio-website
+
+**Live Demo:**
 https://neehagarg.github.io/portfolio-website/
 
----
+Responsive personal portfolio showcasing experience, skills, projects, certifications, resume, and contact information.
 
-## 🛠️ Skills
+**Tech Stack**
 
-- Selenium
-- Playwright
-- Java
-- JavaScript
-- TypeScript
-- REST Assured
-- API Testing
-- Jenkins
-- CI/CD
-- Docker
+* HTML5
+* CSS3
+* JavaScript
+* GitHub Pages
 
 ---
 
-## 📂 Projects
+## 🤖 MOSIP UI Automation Contributions – Partner Management Portal (PMP)
 
-### LearnJS
-JavaScript learning project using:
-- HTML
-- CSS
-- JavaScript
-- JSON
+**Repository:**
+https://github.com/neehagarg/<mosip-pmp-repository>
 
-### Playwright Automation Framework
-End-to-end automation framework using:
-- Playwright
-- TypeScript
-- GitHub Actions
+Selenium-based automation framework for the MOSIP Partner Management Portal with reusable Page Object Model, API integration, and CI/CD support.
 
----
+**Technology**
 
-## 📄 Resume
-
-Download my latest resume from the portfolio website.
+* Selenium WebDriver
+* Java
+* Page Object Model
+* REST API Integration
+* GitHub Actions
 
 ---
 
-## 📫 Contact
+## 🤖 MOSIP UI Automation – Admin Portal
 
-- GitHub: https://github.com/neehagarg
-- LinkedIn: https://www.linkedin.com/in/neeharika-garg/
+**Repository:**
+https://github.com/neehagarg/<mosip-admin-repository>
+
+End-to-end Selenium automation framework covering critical administrative workflows.
+
+**Technology**
+
+* Selenium WebDriver
+* Java
+* Page Object Model
+* REST API Integration
+* GitHub Actions
+
+---
+
+## 🖥️ MOSIP Registration Client Automation
+
+**Repository:**
+https://github.com/neehagarg/<registration-client-repository>
+
+Desktop automation framework for the MOSIP Registration Client using TestFX.
+
+**Technology**
+
+* JavaFX
+* TestFX
+* Functional Testing
+* Regression Testing
+* Test Reporting
+
+---
+
+## 🔗 Packet Manager API Automation
+
+**Repository:**
+https://github.com/neehagarg/<packet-manager-repository>
+
+REST Assured automation framework for Packet Manager APIs with Spring Boot and JSON Schema validation.
+
+**Technology**
+
+* REST Assured
+* Java
+* Spring Boot
+* Functional Testing
+* JSON Schema Validation
+
+---
+
+## 🔗 DSL API Automation
+
+**Repository:**
+https://github.com/neehagarg/<dsl-api-repository>
+
+Reusable REST Assured automation framework for API validation and functional testing.
+
+**Technology**
+
+* REST Assured
+* Java
+* TestNG
+* Maven
+* API Validation
+* CI/CD Integration
+
+---
+
+## 🔗 Functional API Automation Framework
+
+**Repository:**
+https://github.com/neehagarg/<functional-api-framework>
+
+Enterprise-ready REST Assured framework with reusable utilities, reporting, and CI/CD integration.
+
+**Technology**
+
+* REST Assured
+* Java
+* TestNG
+* Maven
+* CI/CD Integration
+
+---
+
+## 🎭 Playwright Automation Framework
+
+**Repository:**
+https://github.com/neehagarg/<playwright-framework>
+
+Modern end-to-end automation framework supporting cross-browser execution and GitHub Actions.
+
+**Technology**
+
+* Playwright
+* TypeScript
+* GitHub Actions
+
+---
+
+## 📚 LearnJS
+
+**Repository:**
+https://github.com/neehagarg/CalculatorProject
+
+JavaScript learning repository covering fundamental web development concepts.
+
+**Technology**
+
+* HTML
+* CSS
+* JavaScript
+* JSON
+
+---
+
+# 🚀 Areas of Expertise
+
+* Quality Engineering Strategy
+* Test Automation Framework Design
+* UI Automation
+* API Automation
+* Release Governance
+* Agile & Scrum
+* Test Planning
+* Test Management
+* CI/CD
+* Quality Metrics & Reporting
+* Defect Management
+* Team Leadership & Mentoring
+
+---
+
+# 📄 Resume
+
+📥 Download the latest resume from my Portfolio website.
+
+---
+
+# 📫 Connect with Me
+
+🌐 **Portfolio**
+https://neehagarg.github.io/portfolio-website/
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/neeharika-garg/
+
+💻 **GitHub**
+https://github.com/neehagarg
+
+📧 **Email**
+[neeharika.goyal@gmail.com](mailto:neeharika.goyal@gmail.com)
+
+---
+
+⭐ Thank you for visiting my profile! Feel free to explore my repositories, connect with me on LinkedIn, or reach out for collaboration opportunities.

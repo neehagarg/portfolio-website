@@ -2,8 +2,8 @@
   "Automation": [
     "Selenium",
     "Playwright",
-    "API Testing",
     "REST Assured",
+    "API Testing",
     "JMeter"
   ],
   "Programming": [
@@ -11,19 +11,21 @@
     "JavaScript",
     "TypeScript"
   ],
-  "Tools": [
+  "DevOps & Tools": [
+    "Jenkins",
+    "CI/CD",
+    "Docker",
     "Git",
     "GitHub",
-    "CI/CD",
-    "Jenkins",
-    "SQL",
-    "Docker"
+    "Maven",
+    "SQL"
   ],
   "Leadership": [
     "QA Strategy",
     "Test Management",
     "Release Management",
     "Agile Delivery",
+    "People Leadership",
     "Stakeholder Management"
   ]
 }
