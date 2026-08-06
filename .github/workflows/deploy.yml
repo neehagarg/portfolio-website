@@ -5,9 +5,10 @@ on:
     branches:
       - main
 
+# Fixed: Groups concurrency properly so GitHub Pages accepts the API payload safely
 concurrency:
   group: "pages"
-  cancel-in-progress: false # Prevents early cutoffs that create duplicate artifacts
+  cancel-in-progress: false
 
 permissions:
   contents: read
@@ -32,7 +33,7 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: . # Uploads the root directory containing your index.html
+          path: . # If you are using a build tool, remember to change this to './dist'
 
       - name: Deploy to GitHub Pages
         id: deployment

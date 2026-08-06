@@ -148,7 +148,7 @@ REST Assured automation framework for Packet Manager APIs with Spring Boot and J
 * Java
 * Spring Boot
 * Functional Testing
-* JSON Schema Validation
+* JSON Schema  Validation
 
 ---
 
