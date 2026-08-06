@@ -5,10 +5,9 @@ on:
     branches:
       - main
 
-# Fixed: Scoped concurrency to the specific run ID or ref to prevent multi-artifact collision
 concurrency:
-  group: "pages-${{ github.run_id }}"
-  cancel-in-progress: false
+  group: "pages"
+  cancel-in-progress: false # Prevents early cutoffs that create duplicate artifacts
 
 permissions:
   contents: read
@@ -33,7 +32,7 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: . # Uploads the root directory containing your index.html
 
       - name: Deploy to GitHub Pages
         id: deployment
