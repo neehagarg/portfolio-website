@@ -5,10 +5,10 @@ on:
     branches:
       - main
 
-# Cancel any previous runs for the same workflow/branch if a new commit is pushed
+# Fixed: Scoped concurrency to the specific run ID or ref to prevent multi-artifact collision
 concurrency:
-  group: "pages"
-  cancel-in-progress: true
+  group: "pages-${{ github.run_id }}"
+  cancel-in-progress: false
 
 permissions:
   contents: read
