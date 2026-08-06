@@ -5,6 +5,11 @@ on:
     branches:
       - main
 
+# Cancel any previous runs for the same workflow/branch if a new commit is pushed
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 permissions:
   contents: read
   pages: write
