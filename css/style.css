@@ -255,5 +255,17 @@ header h1 {
 font-size:32px;
 
 }
+.summary-highlights {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px 20px;
+    list-style: none;
+    padding: 0;
+    margin-top: 16px;
+}
 
+.summary-highlights li {
+    font-weight: 600;
+    color: #333;
+}
 }
