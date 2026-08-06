@@ -16,7 +16,7 @@ Quality Engineering Leader with **16+ years of experience** in Quality Assurance
 ## 💼 Professional Summary
 
 * ✅ 16+ years of experience in Software Quality Assurance & Quality Engineering
-* ✅ Expertise in UI, API, Functional, Integration & Regression Testing
+* ✅ Expertise in UI, API, Functional, Integration Regression & Performance Testing
 * ✅ Built scalable Selenium, Playwright, REST Assured & TestFX automation frameworks
 * ✅ Experienced in QA Strategy, Release Governance, Agile Delivery & Team Leadership
 * ✅ Passionate about automation, continuous improvement, and mentoring QA engineers
@@ -54,6 +54,7 @@ Quality Engineering Leader with **16+ years of experience** in Quality Assurance
 
 * UI Testing
 * API Testing
+* Database Testing
 * Functional Testing
 * Regression Testing
 * Integration Testing
