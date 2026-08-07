@@ -12,16 +12,7 @@
     "github": "https://github.com/neehagarg/portfolio-website",
     "demo": "https://neehagarg.github.io/portfolio-website/"
   },
-  {
-    "name": "Playwright Automation Framework",
-    "description": "Modern end-to-end test automation framework built with Playwright and TypeScript, supporting cross-browser testing, reusable page objects, and CI/CD integration.",
-    "technology": [
-      "Playwright",
-      "TypeScript",
-      "GitHub Actions"
-    ],
-    "github": "https://github.com/neehagarg/Playwright-Automation-Framework"
-  },
+
   {
     "name": "MOSIP Partner Management Portal (PMP) Automation",
     "description": "Selenium-based UI automation framework for the MOSIP Partner Management Portal featuring reusable page objects, API integration, and automated regression testing.",
